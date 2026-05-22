@@ -1,19 +1,25 @@
-# Task Manager Application
+Task Manager Application
+This application allows you to create, update, and track your daily tasks efficiently.
 
-ఈ అప్లికేషన్ ద్వారా మీరు మీ రోజువారీ పనులను (Tasks) క్రియేట్ చేయడం, అప్‌డేట్ చేయడం మరియు ట్రాక్ చేయడం చేయవచ్చు.
+Features
+User Authentication: Secure sign-up and login functionality.
 
-## Features
-- యూజర్ అథెంటికేషన్ (User Authentication)
-- క్రియేట్, రీడ్, అప్‌డేట్, డిలీట్ (CRUD) ఆపరేషన్స్
-- రెస్పాన్సివ్ డిజైన్ (Mobile & Web friendly)
+CRUD Operations: Create, Read, Update, and Delete tasks seamlessly.
 
-## How to Run
-1. ప్రాజెక్ట్‌ను క్లోన్ చేసుకోండి: `git clone <your-repo-url>`
-2. డిపెండెన్సీలను ఇన్‌స్టాల్ చేయండి: `npm install`
-3. సర్వర్ రన్ చేయండి: `node server.js`
-4. ఫ్రంటెండ్ రన్ చేయండి: `npm start`
+Responsive Design: Optimized for both mobile and desktop devices.
 
-## Tech Stack
-- React.js
-- Node.js
-- MongoDB
+How to Run
+Clone the repository: git clone
+
+Install dependencies: npm install
+
+Start the server: node server.js
+
+Run the frontend: npm start
+
+Tech Stack
+React.js
+
+Node.js
+
+MongoDB
